@@ -1,4 +1,4 @@
-<img align="left" width="180" height="180" alt="Tint logo" src="res/logo.svg" />
+<img align="left" width="180" height="180" alt="logo repository" src="res/logo.svg" />
 
 # Template repository
 ![Last Commit](https://img.shields.io/github/last-commit/nichtgian/template?color=ff69b4)
