@@ -8,9 +8,7 @@
 ## Description
 
 ## Current version
-[<img src="res/play.svg" width="40">](https://nichtgian.github.io/template/)
-*or*
-[GitHub pages](https://nichtgian.github.io/template/)
+[:arrow_forward: GitHub pages](https://nichtgian.github.io/template/)
 
 ## Team
 
